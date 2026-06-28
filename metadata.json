@@ -1,0 +1,6 @@
+{
+  "name": "Dark World of Zombies",
+  "description": "An immersive dark horror pseudo-3D zombie survival slasher game. Fight boss zombies with swords, chakras, bows, tridents, and damrus in a dark city, persistent saves, shop upgrades, XP, and profile systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
